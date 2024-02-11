@@ -1,0 +1,1372 @@
+elements:
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_handling.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_1_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_1_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_2_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_incidental_2_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_f_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_f_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_f_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_f_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_p_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_p_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_p_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_1_p_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_f_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_f_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_f_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_f_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_p_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_p_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_p_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_2_p_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_f_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_f_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_f_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_f_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_p_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_p_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_p_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_perc_3_p_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_velcurve_63
+          value: '1'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_1_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_1_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_2_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_2_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_3_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_3_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_3_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_4_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_4_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_slide_4_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_1_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_1_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_1_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_1_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_2_rr1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_2_rr2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_2_rr3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\fx\fx_strum_2_rr4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_length
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: seq_position
+          value: '4'
+
